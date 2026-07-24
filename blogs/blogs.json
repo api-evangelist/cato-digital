@@ -1,0 +1,14 @@
+{
+  "repo": "cato-digital",
+  "feeds": [
+    {
+      "source": "https://cato.digital/kb/",
+      "feed_url": "https://cato.digital/kb/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-20T13:31:34Z"
+}
