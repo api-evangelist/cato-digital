@@ -10,6 +10,17 @@ description: >-
   capacity and clean energy, and is a founding member of the Infrastructure
   Masons Climate Accord. Customers provision and manage infrastructure through
   the Cato console rather than a public developer API.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
